@@ -1,0 +1,53 @@
+.wd-search-bar {
+    border-radius: 20px;
+    padding-left: 50px;
+    height: 30px;
+    background-color: darkgray;
+    color: white;
+    width: 90%;
+}
+.wd-magnifier-position {
+    position: absolute;
+    top: 25px;
+    left: 83px;
+}
+
+.wd-gear-position {
+    height: 25px;
+    margin-top: 6px;
+}
+
+.wd-selected-tab {
+    font-size: 15px;
+    color: rgb(29,161,242);
+    border-bottom: 4px solid rgb(29,161,242);
+}
+
+.wd-unselected-tab {
+    font-size: 15px;
+    color: rgb(110, 118, 125);
+}
+
+.wd-padded {
+    padding: 16px;
+}
+
+.wd-divider {
+    border-top: 1px solid rgb(47, 51, 54);
+    border-bottom: 1px solid rgb(47, 51, 54);
+    background-color: darkgray;
+    height: 10px;
+}
+
+.wd-tuit-title {
+    font-size: 13px;
+    color: white;
+    font-weight: bold;
+}
+
+.wd-image-preview {
+    border-radius: 30px;
+    height: 100px;
+    width: 100px;
+}
+

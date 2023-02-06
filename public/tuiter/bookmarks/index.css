@@ -1,0 +1,60 @@
+.wd-page-title {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.wd-avatar {
+    height: 48px;
+    border-radius: 100%;
+}
+
+.wd-tuit-width {
+    display: inline-block;
+    max-width: 506px;
+}
+
+.wd-title {
+    font-size: 15px;
+    color:white;
+    font-weight: bold;
+}
+
+.wd-details {
+    font-size: 15px;
+    color:lightgray;
+}
+
+.wd-selected {
+    font-size: 15px;
+    color:red;
+}
+
+.wd-tuit-content {
+    font-size: 15px;
+    color:white;
+}
+
+.wd-round-border {
+    border-radius: 20px;
+    border: 1px solid #475154;
+}
+
+.wd-image-preview {
+    border-radius: 20px 20px 0px 0px;
+    height: 264px;
+    width: 504px;
+}
+
+.wd-padding-12 {
+    padding: 12px 12px 12px 12px;
+}
+
+.wd-width-onefourth {
+    display: inline-block;
+    width: 24%;
+}
+
+.wd-action-button {
+    text-decoration: none;
+}
