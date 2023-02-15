@@ -1,0 +1,98 @@
+.wd-color-gray {
+    color: #71767BFF;
+}
+
+.wd-search-bar {
+    background-color: rgb(22, 24, 28);
+    border-radius: 20px;
+    margin-left: 5px;
+    padding-left: 55px;
+    height: 45px;
+}
+
+.wd-magnifier {
+    position: relative;
+    top: 15px;
+    left: 42px;
+}
+
+.wd-gear {
+    position: relative;
+    height: 25px;
+    margin-top: 9px;
+    margin-right: 16px;
+    padding-left: 50px;
+    font-size: 1.2em;
+    color: white;
+}
+
+.wd-tuit-button {
+    background-color: #1DA1F2;
+    border-radius: 20px;
+    border: 0;
+    position: relative;
+    top: 10px;
+    width: 100%
+}
+
+/*.nav-tabs .nav-link.active {*/
+/*    color: black;*/
+/*    font-weight: bold;*/
+/*    border: 0;*/
+/*    border-bottom: 3px solid #1DA1F2;*/
+/*}*/
+
+/*.nav-tabs .nav-link {*/
+/*    color: #71767BFF;*/
+/*    font-weight: bold;*/
+/*    text-decoration: none;*/
+/*}*/
+
+/*.list-group-item {*/
+/*    background-color: transparent;*/
+/*    border: 0;*/
+/*}*/
+
+/*.list-group-item.active {*/
+/*    background-color: white;*/
+/*    color: black;*/
+/*    font-weight: bold;*/
+/*    border: 0;*/
+/*}*/
+
+.wd-header-text{
+    color: white;
+    position: absolute;
+    left: 2%;
+    bottom: 2%;
+}
+
+.wd-header-subtitle {
+    font-size: 13px;
+}
+
+.wd-header-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.wd-topic-link {
+    text-decoration: none;
+    color: #1DA1F2;
+    font-size: 13px;
+}
+
+.wd-gray-card {
+    background-color: #F5F8FA;
+    border-radius: 15px;
+}
+
+.wd-follow-button {
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    height: 35px;
+    width: 80px;
+}

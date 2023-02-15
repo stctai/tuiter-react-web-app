@@ -1,0 +1,13 @@
+.wd-preview {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 20px;
+}
+
+.wd-image-preview {
+    border-radius: 20px;
+}
+
+.wd-article-image-preview {
+    border-radius: 20px 20px 0 0;
+}
