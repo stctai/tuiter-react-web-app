@@ -1,0 +1,196 @@
+.wd-float-left {
+    float: left;
+}
+
+.wd-float-right {
+    float: right;
+}
+
+.wd-float-done {
+    clear: both;
+}
+
+.wd-color-tuit {
+    color: #1DA1F2;
+}
+
+.wd-align-center {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.wd-profile-pic {
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+}
+
+.wd-img {
+    height: 80px;
+    width: 80px;
+    border-radius: 15px;
+    margin-left: 12px;
+}
+
+.wd-link {
+    color: #71767BFF;
+    display: inline;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.wd-blue-link {
+    text-decoration: none;
+    color: #1DA1F2;
+    font-size: 15px;
+}
+
+.wd-navigation-item {
+    font-size: 20px;
+    height: 50px;
+}
+
+.wd-bold-icon {
+    -webkit-text-stroke: 1px;
+}
+
+.wd-tuit-container {
+    padding: 12px 16px;
+}
+
+.wd-more {
+    color: #71767BFF;
+    float: right;
+    position: relative;
+}
+
+.wd-subtitle {
+    color: #71767BFF;
+    font-size: 13px;
+}
+
+.wd-title {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.wd-content {
+    font-size: 14px;
+    color: black;
+}
+
+.wd-color-gray {
+    color: #71767BFF;
+}
+
+.wd-search-bar {
+    background-color: rgb(239, 243, 244);
+    border-radius: 20px;
+    margin-left: 8px;
+    padding-left: 55px;
+    height: 45px;
+    width: 100%;
+}
+
+.wd-magnifier {
+    position: absolute;
+    top: 10px;
+    left: 55px;
+    color: rgb(83, 100, 113);
+}
+
+.wd-gear {
+    position: relative;
+    height: 25px;
+    margin-top: 9px;
+    margin-right: 16px;
+    padding-left: 45px;
+    font-size: 1.2em;
+    color: rgb(15, 20, 25);
+}
+
+.wd-tuit-button {
+    background-color: #1DA1F2;
+    border: 0;
+    height: 50px;
+    position: relative;
+    align-items: center;
+    width: 100%
+}
+
+.nav-tabs .nav-link.active {
+    color: black;
+    font-weight: bold;
+    border: 0;
+    border-bottom: 3px solid #1DA1F2;
+}
+
+.nav-tabs .nav-link {
+    color: #71767BFF;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.list-group-item {
+    background-color: transparent;
+    border: 0;
+}
+
+.list-group-item.active {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: 0;
+}
+
+.wd-header-text{
+    color: white;
+    position: absolute;
+    left: 2%;
+    bottom: 2%;
+}
+
+.wd-header-subtitle {
+    font-size: 13px;
+}
+
+.wd-header-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.wd-topic-link {
+    text-decoration: none;
+    color: #1DA1F2;
+    font-size: 13px;
+}
+
+.wd-gray-card {
+    background-color: #F5F8FA;
+    border-radius: 15px;
+}
+
+.wd-follow-button {
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    height: 35px;
+    width: 80px;
+}
+
+.wd-preview {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 20px;
+}
+
+.wd-image-preview {
+    border-radius: 20px;
+}
+
+.wd-article-image-preview {
+    border-radius: 20px 20px 0 0;
+}

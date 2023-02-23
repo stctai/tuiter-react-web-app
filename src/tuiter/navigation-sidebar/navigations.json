@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Home",
+    "icon": "bi bi-house",
+    "path": "home"
+  },
+  {
+    "label": "Explore",
+    "icon": "bi bi-hash",
+    "path": "explore"
+  },
+  {
+    "label": "Notifications",
+    "icon": "bi bi-bell",
+    "path": ""
+  },
+  {
+    "label": "Messages",
+    "icon": "bi bi-envelope",
+    "path": ""
+  },
+  {
+    "label": "Bookmarks",
+    "icon": "bi bi-bookmark",
+    "path": ""
+  },
+  {
+    "label": "Lists",
+    "icon": "bi bi-list",
+    "path": ""
+  },
+  {
+    "label": "Profile",
+    "icon": "bi bi-person",
+    "path": ""
+  },
+  {
+    "label": "More",
+    "icon": "bi bi-three-dots",
+    "path": ""
+  }
+]
