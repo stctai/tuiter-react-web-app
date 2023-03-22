@@ -144,6 +144,36 @@
     border: 0;
 }
 
+.wd-new-tuit-button {
+    background-color: #1DA1F2;
+    border: 0;
+    font-size: 15px;
+    height: 35px;
+    position: relative;
+    align-items: center;
+}
+
+.wd-profile-box {
+    height: 70px;
+}
+
+.wd-profile-pic-big {
+    border: 4px solid white;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin-top: -15%;
+    position: absolute;
+}
+
+.wd-edit-profile-button {
+    border: 1px solid gray;
+    font-size: 15px;
+    height: 35px;
+    position: relative;
+    align-items: center;
+}
+
 .wd-header-text{
     color: white;
     position: absolute;
@@ -167,7 +197,7 @@
 }
 
 .wd-gray-card {
-    background-color: #F5F8FA;
+    background-color: rgb(239, 243, 244);
     border-radius: 15px;
 }
 

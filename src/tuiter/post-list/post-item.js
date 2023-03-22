@@ -2,7 +2,7 @@ import React from "react";
 
 const articlePreview = (post) => {
     return(
-        <div className="border-top border-bottom border-start border-end wd-preview">
+        <div className="border wd-preview">
             <img className="w-100 wd-article-image-preview" src={post.image}/>
             <div className="wd-top-border wd-tuit-container">
                 <span className="wd-content">{post.articleTitle}</span><br/>
@@ -15,7 +15,7 @@ const articlePreview = (post) => {
 
 const imagePreview = (post) => {
     return(
-        <div className="border-top border-bottom border-start border-end wd-preview">
+        <div className="border wd-preview">
             <img className="w-100 wd-image-preview" src={post.image}/>
         </div>
     );
